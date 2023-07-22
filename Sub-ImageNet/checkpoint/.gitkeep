@@ -1,0 +1,4 @@
+# Pretrained model
+
+# resnet18-f37072fd.pth on https://download.pytorch.org/models/resnet18-f37072fd.pth
+# vgg19_bn-c79401a0.pth on https://download.pytorch.org/models/vgg19_bn-c79401a0.pth
