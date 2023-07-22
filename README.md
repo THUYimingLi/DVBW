@@ -2,6 +2,22 @@
 
 This is the official implementation of our paper [Black-box Dataset Ownership Verification via Backdoor Watermarking](https://doi.org/10.1109/TIFS.2023.3265535), accepted by IEEE Transactions on Information Forensics and Security (2023). This research project is developed based on Python 3 and Pytorch, created by [Yiming Li](http://liyiming.tech/) and [Mingyan Zhu](https://github.com/MingyanZHU).
 
+## Citation
+
+If you use this work or any code from this repository in your research, please cite our paper:
+
+```bibtex
+@article{li2023DVBW,
+  title={Black-box Dataset Ownership Verification via Backdoor Watermarking},
+  author={Li, Yiming and Zhu, Mingyan and Yang, Xue and Jiang, Yong and Wei, Tao and Xia, Shu-Tao},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume = {18},
+  pages = {2318--2332},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
 ## The Main Pipeline of Our Methods
 
 ![pipeline](./pipeline.png)
@@ -62,18 +78,3 @@ We built our code based on [BackdoorBox](https://github.com/THUYimingLi/Backdoor
 
 Thanks for their excellent works!
 
-## Citation
-
-If you use this work or any code from this repository in your research, please cite our paper:
-
-```bibtex
-@article{li2023DVBW,
-  title={Black-box Dataset Ownership Verification via Backdoor Watermarking},
-  author={Li, Yiming and Zhu, Mingyan and Yang, Xue and Jiang, Yong and Wei, Tao and Xia, Shu-Tao},
-  journal={IEEE Transactions on Information Forensics and Security},
-  volume = {18},
-  pages = {2318--2332},
-  year={2023},
-  publisher={IEEE}
-}
-```
