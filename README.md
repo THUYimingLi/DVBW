@@ -4,7 +4,7 @@ This is the official implementation of our paper [Black-box Dataset Ownership Ve
 
 ## Citation
 
-If you use this work or any code from this repository in your research, please cite our paper:
+If you think this work or our codes are useful for your research, please cite our paper via:
 
 ```bibtex
 @article{li2023DVBW,
